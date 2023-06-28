@@ -1,0 +1,17 @@
+D:\Development\Store Management APP\StoreApp.Repository\obj\Debug\net6.0\StoreApp.Repository.csproj.AssemblyReference.cache
+D:\Development\Store Management APP\StoreApp.Repository\obj\Debug\net6.0\StoreApp.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Store Management APP\StoreApp.Repository\obj\Debug\net6.0\StoreApp.Repository.AssemblyInfoInputs.cache
+D:\Development\Store Management APP\StoreApp.Repository\obj\Debug\net6.0\StoreApp.Repository.AssemblyInfo.cs
+D:\Development\Store Management APP\StoreApp.Repository\obj\Debug\net6.0\StoreApp.Repository.csproj.CoreCompileInputs.cache
+D:\Development\Store Management APP\StoreApp.Repository\bin\Debug\net6.0\StoreApp.Repository.deps.json
+D:\Development\Store Management APP\StoreApp.Repository\bin\Debug\net6.0\StoreApp.Repository.dll
+D:\Development\Store Management APP\StoreApp.Repository\bin\Debug\net6.0\StoreApp.Repository.pdb
+D:\Development\Store Management APP\StoreApp.Repository\bin\Debug\net6.0\StoreApp.Data.dll
+D:\Development\Store Management APP\StoreApp.Repository\bin\Debug\net6.0\StoreApp.Models.dll
+D:\Development\Store Management APP\StoreApp.Repository\bin\Debug\net6.0\StoreApp.Data.pdb
+D:\Development\Store Management APP\StoreApp.Repository\bin\Debug\net6.0\StoreApp.Models.pdb
+D:\Development\Store Management APP\StoreApp.Repository\obj\Debug\net6.0\StoreApp.Repository.csproj.CopyComplete
+D:\Development\Store Management APP\StoreApp.Repository\obj\Debug\net6.0\StoreApp.Repository.dll
+D:\Development\Store Management APP\StoreApp.Repository\obj\Debug\net6.0\refint\StoreApp.Repository.dll
+D:\Development\Store Management APP\StoreApp.Repository\obj\Debug\net6.0\StoreApp.Repository.pdb
+D:\Development\Store Management APP\StoreApp.Repository\obj\Debug\net6.0\ref\StoreApp.Repository.dll

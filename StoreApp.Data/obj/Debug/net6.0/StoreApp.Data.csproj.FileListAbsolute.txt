@@ -1,0 +1,17 @@
+D:\Development\Store Management APP\StoreApp.Data\bin\Debug\net6.0\StoreApp.Data.deps.json
+D:\Development\Store Management APP\StoreApp.Data\bin\Debug\net6.0\StoreApp.Data.runtimeconfig.json
+D:\Development\Store Management APP\StoreApp.Data\bin\Debug\net6.0\StoreApp.Data.dll
+D:\Development\Store Management APP\StoreApp.Data\bin\Debug\net6.0\StoreApp.Data.pdb
+D:\Development\Store Management APP\StoreApp.Data\bin\Debug\net6.0\StoreApp.Models.dll
+D:\Development\Store Management APP\StoreApp.Data\bin\Debug\net6.0\StoreApp.Models.pdb
+D:\Development\Store Management APP\StoreApp.Data\obj\Debug\net6.0\StoreApp.Data.csproj.AssemblyReference.cache
+D:\Development\Store Management APP\StoreApp.Data\obj\Debug\net6.0\StoreApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Store Management APP\StoreApp.Data\obj\Debug\net6.0\StoreApp.Data.AssemblyInfoInputs.cache
+D:\Development\Store Management APP\StoreApp.Data\obj\Debug\net6.0\StoreApp.Data.AssemblyInfo.cs
+D:\Development\Store Management APP\StoreApp.Data\obj\Debug\net6.0\StoreApp.Data.csproj.CoreCompileInputs.cache
+D:\Development\Store Management APP\StoreApp.Data\obj\Debug\net6.0\StoreApp.Data.csproj.CopyComplete
+D:\Development\Store Management APP\StoreApp.Data\obj\Debug\net6.0\StoreApp.Data.dll
+D:\Development\Store Management APP\StoreApp.Data\obj\Debug\net6.0\refint\StoreApp.Data.dll
+D:\Development\Store Management APP\StoreApp.Data\obj\Debug\net6.0\StoreApp.Data.pdb
+D:\Development\Store Management APP\StoreApp.Data\obj\Debug\net6.0\StoreApp.Data.genruntimeconfig.cache
+D:\Development\Store Management APP\StoreApp.Data\obj\Debug\net6.0\ref\StoreApp.Data.dll

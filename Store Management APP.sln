@@ -1,0 +1,72 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "StoreApp.UI", "StoreApp.UI\StoreApp.UI.esproj", "{64942748-C041-46CE-A0B1-D4F4415EE0C3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StoreApp.Data", "StoreApp.Data\StoreApp.Data.csproj", "{117C47C0-23C3-4739-AE3B-7B795107D2A4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StoreApp.API", "StoreApp.API\StoreApp.API.csproj", "{FC8A88DD-FDF9-4866-A2EE-0B6461F62B82}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StoreApp.Models", "StoreApp.Models\StoreApp.Models.csproj", "{6F91681E-F8DD-465F-815A-4B8ADA32980A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StoreApp.Repository", "StoreApp.Repository\StoreApp.Repository.csproj", "{44D327F5-5A56-4686-BE38-DA9FB8F4D551}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64942748-C041-46CE-A0B1-D4F4415EE0C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64942748-C041-46CE-A0B1-D4F4415EE0C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64942748-C041-46CE-A0B1-D4F4415EE0C3}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{64942748-C041-46CE-A0B1-D4F4415EE0C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64942748-C041-46CE-A0B1-D4F4415EE0C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64942748-C041-46CE-A0B1-D4F4415EE0C3}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{117C47C0-23C3-4739-AE3B-7B795107D2A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{117C47C0-23C3-4739-AE3B-7B795107D2A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{117C47C0-23C3-4739-AE3B-7B795107D2A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{117C47C0-23C3-4739-AE3B-7B795107D2A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC8A88DD-FDF9-4866-A2EE-0B6461F62B82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC8A88DD-FDF9-4866-A2EE-0B6461F62B82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC8A88DD-FDF9-4866-A2EE-0B6461F62B82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC8A88DD-FDF9-4866-A2EE-0B6461F62B82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F91681E-F8DD-465F-815A-4B8ADA32980A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F91681E-F8DD-465F-815A-4B8ADA32980A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F91681E-F8DD-465F-815A-4B8ADA32980A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F91681E-F8DD-465F-815A-4B8ADA32980A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44D327F5-5A56-4686-BE38-DA9FB8F4D551}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44D327F5-5A56-4686-BE38-DA9FB8F4D551}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44D327F5-5A56-4686-BE38-DA9FB8F4D551}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44D327F5-5A56-4686-BE38-DA9FB8F4D551}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B02810FB-520E-413F-A67A-174614A94357}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://shubham4616.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = StoreApp.API\\StoreApp.API.csproj
+		SccProjectName1 = StoreApp.API
+		SccLocalPath1 = StoreApp.API
+		SccProjectUniqueName2 = StoreApp.Data\\StoreApp.Data.csproj
+		SccProjectName2 = StoreApp.Data
+		SccLocalPath2 = StoreApp.Data
+		SccProjectUniqueName3 = StoreApp.Models\\StoreApp.Models.csproj
+		SccProjectName3 = StoreApp.Models
+		SccLocalPath3 = StoreApp.Models
+		SccProjectUniqueName4 = StoreApp.Repository\\StoreApp.Repository.csproj
+		SccProjectName4 = StoreApp.Repository
+		SccLocalPath4 = StoreApp.Repository
+		SccProjectUniqueName5 = StoreApp.UI\\StoreApp.UI.esproj
+		SccProjectName5 = StoreApp.UI
+		SccLocalPath5 = StoreApp.UI
+	EndGlobalSection
+EndGlobal

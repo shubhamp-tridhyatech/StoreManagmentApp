@@ -1,0 +1,26 @@
+<main id="main" class="main">
+  <div class="pagetitle">
+    <h1>Country</h1>
+    <nav>
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a routerLink="/">Home</a></li>
+        <li class="breadcrumb-item active">Country</li>
+      </ol>
+    </nav>
+  </div>
+  <section class="section dashboard">
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="row">
+          <div class="col-12 container">
+            <ag-grid-angular class="ag-theme-alpine grid" [rowData]="rowData" [pagination]="true" [animateRows]="true"
+              [paginationPageSize]="paginationDet.pageSize" [defaultColDef]="defaultColDef"
+              [serverSideInfiniteScroll]="true" (paginationChanged)="onPaginationChanged($event)"
+              [rowModelType]="rowModelType" (gridReady)="onGridReady($event)" [columnDefs]="columnDefs">
+            </ag-grid-angular>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
